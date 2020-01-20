@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/open-policy-agent/npm-opa-wasm/issues"
   },
-  "homepage": "https://github.com/open-policy-agent/npm-opa-wasm#readme"
+  "homepage": "https://github.com/open-policy-agent/npm-opa-wasm#readme",
+  "dependencies": {
+    "dot-prop": "^5.2.0",
+    "picomatch": "^2.2.1"
+  }
 }
